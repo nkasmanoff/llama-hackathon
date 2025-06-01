@@ -1,5 +1,7 @@
 # llama-hackathon
 
-Now that we know how to isolate experts, we can start to prune them.
 
-View the different expert results for a
+GitHub issues created during this project :-)
+
+- https://github.com/pytorch/torchtune/issues/2776
+- https://github.com/ml-explore/mlx-lm/issues/206
